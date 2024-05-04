@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+header h1{
+    font-size: 36px;
+    font-style: oblique;
+}
+
+header h2{
+    /* margin: 21px; */
+    font-style: oblique;
+    padding: 5px;
+}
+
+p {
+    padding: 5px ;
+    font-style: oblique;
+}
+
+h2 {
+    padding: 10px 0px;
+    font-style: oblique ;
+}
+
+.A {
+    font-style: oblique;
+}
